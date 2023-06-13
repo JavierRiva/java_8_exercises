@@ -1,2 +1,2 @@
 # java_8_exercises
-Different exercises with Java 1.8
+Several exercises with Java 1.8
